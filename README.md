@@ -17,7 +17,7 @@ Hey,I am Adith S Biju from Kochi,Kerala,part of S3 AIE A Batch(2022) ,Amrita Sch
 [Task-09]|Krypto Scrapper|Not Completed
 [Task-10]|CS50|Not Completed
 
-#Additional Tasks
+# Additional Tasks
 
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
