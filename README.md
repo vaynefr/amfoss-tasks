@@ -7,7 +7,7 @@ Hey,I am Adith S Biju from Kochi,Kerala,part of S3 AIE A Batch(2022) ,Amrita Sch
 --------------|---------------|---------------
 [Task-00](https://github.com/vaynefr/amfoss-tasks/tree/main/Task-00)|Install Ubuntu 20.04|Completed
 [Task-01](https://github.com/vaynefr/amfoss-tasks/tree/main/Task-01)|Star all the amFOSS repositories|Completed
-[Task-02](https://github.com/vaynefr/amfoss-tasks/tree/main/Task-02)|Terminal Hunt|Not Completed
+[Task-02](https://github.com/vaynefr/amfoss-tasks/tree/main/Task-02)|Terminal Hunt|Nearly Completed
 [Task-03]()|Programming|Not Completed
 [Task-04]()|CineBot|Not Completed
 [Task-05]()|Find The Bug|Not Completed
